@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashar__x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashar__x" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/asharr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ashar" height="30" width="40" /></a>
+<a href="https://twitter.com/ashar__x" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="ashar__x" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/asharr/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="muhammad ashar" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
