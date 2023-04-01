@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ashar</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Flutter , Firebase , Dart**
+- 🌱 I’m currently learning **Flutter,Firebase,Dart**
 
 - 💬 Ask me about **Flutter , Firebase , Java , Dart**
 
