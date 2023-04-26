@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ashar</h1>
 <h3 align="center">I am a Flutter Application Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ashar__x" target="blank"><img src="https://img.shields.io/twitter/follow/ashar__x?logo=twitter&style=for-the-badge" alt="ashar__x" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Firebase, Provider State Management**
 
