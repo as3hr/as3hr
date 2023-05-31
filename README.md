@@ -2,7 +2,7 @@
 <h3 align="center">I am a Flutter Application Developer</h3>
 
 
-- 🌱 I’m currently learning **Flutter, Firebase, Provider State Management**
+- 🌱 I’m currently learning **Flutter, Firebase, GetX State Management**
 
 - 💬 Ask me about **Flutter, Dart, OOP, Java**
 
