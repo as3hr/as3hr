@@ -4,7 +4,7 @@ I'm a dedicated software developer who enjoys building scalable and efficient ap
 
 ## 🚀 Skills
 
-### Mobile Development: 
+### App Development: 
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
