@@ -4,22 +4,39 @@ I'm a passionate software developer with expertise in building scalable and effi
 
 ## 🚀 Skills
 
-- **Frontend Development**: 
-  - Flutter: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/6993dbb9-5f68-4a7d-bad3-c5f5dcfb0c16" width="30" height="30">
-- **Backend Development**:
-  - NodeJS: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/de3c198e-924f-4187-9390-8bf607d902b6" width="30" height="30">
-  - ExpressJS: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/92bca440-6f70-43c6-9b31-16070b76078a" width="30" height="30">
-  - TypeScript: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/266dc0c8-abf0-4ff9-b2f4-62385082c34e" width="30" height="30">
-  - JavaScript: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/0c5c9951-9af8-4876-930d-46ef9c227601" width="30" height="30">
-  - NestJs: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/f68fe6b0-f822-4db6-a811-c8953d8890c9" width="30" height="30">
-- **Databases**:
-  - MongoDB: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/64cb14fa-6643-4a68-a9bd-11e09df18fa8" width="30" height="30">
-  - PostgreSQL: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/6595778a-1728-49d3-8d8f-baf0a37477a0" width="30" height="30">
-- **DevOps**:
-  - Nginx: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/d2016708-c659-4256-8869-a325ac0f9c39" width="30" height="30">
-  - AWS: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/6cf03d26-0747-4e83-9a1e-063888e35125" width="30" height="30">
-  - Docker: <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/969797bd-4b32-446e-8a7c-3f62f0031b50" width="30" height="30">
-
+### Mobile Development: 
+  <p align="left">
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  </p>
+### Backend Development:
+  <p align="left">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"              height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+    <img src="https://github.com/as3hr/E-commerce-Backend/assets/113264020/f68fe6b0-f822-4db6-a811-c8953d8890c9" width="40" height="40">
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  </p>
+### Databases:
+  <p align="left">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  </p>  
+### DevOps:
+  <p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+  </p>
+### Scripting
+  <p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  </p>
+      
 ## 📫 Contact Me
 
 - Email: [asheressani@gmail.com](mailto:asheressani@gmail.com)
