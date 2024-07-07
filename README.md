@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Ashar
 
-I'm a passionate software developer with expertise in building scalable and efficient applications. My skill set spans across frontend and backend technologies, ensuring end-to-end solutions for various projects.
+I'm a dedicated software developer who enjoys building scalable and efficient applications.
 
 ## 🚀 Skills
 
