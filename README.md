@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ashar</h1>
-<h3 align="center">I'm a passionate software developer with expertise in building scalable and efficient applications. My skill set spans across frontend and backend technologies, ensuring end-to-end solutions for various projects.</h3>
+# 👋 Hi, I'm Muhammad Ashar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=as3hr&label=Profile%20views&color=0e75b6&style=flat" alt="as3hr" /> </p>
+I'm a passionate software developer with expertise in building scalable and efficient applications. My skill set spans across frontend and backend technologies, ensuring end-to-end solutions for various projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashar__x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashar__x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asharr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asharr" height="30" width="40" /></a>
-</p>
+## 🚀 Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Frontend Development**: 
+  - ![Flutter](https://github.com/as3hr/E-commerce-Backend/assets/113264020/6993dbb9-5f68-4a7d-bad3-c5f5dcfb0c16)
+- **Backend Development**:
+  - ![NodeJS](https://github.com/as3hr/E-commerce-Backend/assets/113264020/de3c198e-924f-4187-9390-8bf607d902b6)
+  - ![ExpressJS](https://github.com/as3hr/E-commerce-Backend/assets/113264020/92bca440-6f70-43c6-9b31-16070b76078a)
+  - ![TypeScript](https://github.com/as3hr/E-commerce-Backend/assets/113264020/266dc0c8-abf0-4ff9-b2f4-62385082c34e)
+  - ![JavaScript](https://github.com/as3hr/E-commerce-Backend/assets/113264020/0c5c9951-9af8-4876-930d-46ef9c227601)
+  - ![NestJs](https://github.com/as3hr/E-commerce-Backend/assets/113264020/f68fe6b0-f822-4db6-a811-c8953d8890c9)
+- **Databases**:
+  - ![MongoDB](https://github.com/as3hr/E-commerce-Backend/assets/113264020/64cb14fa-6643-4a68-a9bd-11e09df18fa8)
+  - ![PostgreSQL](https://github.com/as3hr/E-commerce-Backend/assets/113264020/6595778a-1728-49d3-8d8f-baf0a37477a0)
+- **DevOps**:
+  - ![Nginx](https://github.com/as3hr/E-commerce-Backend/assets/113264020/d2016708-c659-4256-8869-a325ac0f9c39)
+  - ![AWS](https://github.com/as3hr/E-commerce-Backend/assets/113264020/6cf03d26-0747-4e83-9a1e-063888e35125)
+  - ![Docker](https://github.com/as3hr/E-commerce-Backend/assets/113264020/969797bd-4b32-446e-8a7c-3f62f0031b50)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=as3hr&show_icons=true&locale=en&layout=compact" alt="as3hr" /></p>
+## 📫 Contact Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=as3hr&" alt="as3hr" /></p>
+- Email: [asheressani@gmail.com](mailto:asheressani@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/asharr)
