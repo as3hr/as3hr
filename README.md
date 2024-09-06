@@ -41,12 +41,12 @@ I'm currently working on implementing webRTC in nodeJs and Flutter for a real-ti
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
+
+## 📝 Check Out My Articles
+
+- [Medium](https://medium.com/@asheressani)
       
 ## 📫 Contact Me
 
 - [asheressani@gmail.com](mailto:asheressani@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/asharr)
-
-## 📫 Check Out My Articles
-
-- [Medium](https://medium.com/@asheressani)
