@@ -46,3 +46,7 @@ I'm currently working on implementing webRTC in nodeJs and Flutter for a real-ti
 
 - Email: [asheressani@gmail.com](mailto:asheressani@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/asharr)
+
+## 📫 Check Out My Articles
+
+- Medium: [Medium](https://medium.com/@asheressani)
