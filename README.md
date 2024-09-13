@@ -2,8 +2,6 @@
 
 I'm a dedicated software developer who enjoys building scalable and efficient applications.
 
-I'm currently working on implementing webRTC in nodeJs and Flutter for a real-time  audio/video conferencing application.
-
 ## 🚀 Skills
 
 ### App Development: 
