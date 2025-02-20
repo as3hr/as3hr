@@ -2,7 +2,7 @@
 
 I'm a dedicated software developer who enjoys building scalable and efficient applications.
 
-## 🚀 Skillshttps://github.com/Progziel/crm_coaching_solution
+## 🚀 Skills
 
 ### App Development: 
 <p align="left">
