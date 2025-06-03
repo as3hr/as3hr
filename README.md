@@ -50,26 +50,15 @@
 
 ---
 
+
+## 📊 GitHub Vibes
+
 <div align="center">
-
-### 📊 GitHub Vibes
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=as3hr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as3hr&layout=compact&theme=tokyonight"/>
-
 </div>
 
----
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as3hr&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=as3hr&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
   <sub>💡 Building the future, one commit at a time</sub>
