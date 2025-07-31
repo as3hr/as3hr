@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://as3hr.dev">🌐 Portfolio</a> •
   <a href="mailto:asheressani@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/asharr">💼 LinkedIn</a> •
-  <a href="https://medium.com/@asheressani">📝 Medium</a>
+  <a href="https://linkedin.com/in/asharr">💼 LinkedIn</a>
 </p>
 
 ---
