@@ -4,14 +4,14 @@ Full-stack product engineer.
 
 ## Stack
 
-**Cross Platform** — Flutter (iOS, Android, Web)  
-**Backend** — Node.js, Express, NestJS  
-**Database** — PostgreSQL, Redis, Supabase, Firebase  
-**AI** — Agentic AI, RAG, LLMs, LLMOps  
-**Real-time** — WebSockets, Socket.io, Streaming  
-**Integrations** — Payments, Maps, Audio/Video  
-**Infra** — Docker, AWS, CI/CD  
+**Cross Platform** - Flutter (iOS, Android, Web)  
+**Backend** - Node.js, Express, NestJS  
+**Database** - PostgreSQL, Redis, Supabase, Firebase  
+**AI** - Agentic AI, RAG, LLMs, LLMOps  
+**Real-time** - WebSockets, Socket.io, Streaming  
+**Integrations** - Payments, Maps, Audio/Video  
+**Infra** - Docker, AWS, CI/CD  
 
 ## Currently
 
-Building [Migrant](https://migrant.as3hr.dev) — a database intelligence layer for developers.
+Building [Migrant](https://migrant.as3hr.dev). A database intelligence layer for developers.
