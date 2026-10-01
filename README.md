@@ -4,10 +4,10 @@ Full-stack product engineer.
 
 ## Stack
 
-**Cross Platform** - Flutter (iOS, Android, Web)  
 **Backend** - Node.js, Express, NestJS  
 **Database** - PostgreSQL, Redis, Supabase, Firebase  
 **AI** - Agentic AI, RAG, LLMs, LLMOps  
+**Cross Platform** - Flutter (iOS, Android, Web)  
 **Real-time** - WebSockets, Socket.io, Streaming  
 **Integrations** - Payments, Maps, Audio/Video  
 **Infra** - Docker, AWS, CI/CD 
