@@ -10,8 +10,4 @@ Full-stack product engineer.
 **AI** - Agentic AI, RAG, LLMs, LLMOps  
 **Real-time** - WebSockets, Socket.io, Streaming  
 **Integrations** - Payments, Maps, Audio/Video  
-**Infra** - Docker, AWS, CI/CD  
-
-## Currently
-
-Building [Migrant](https://migrant.as3hr.dev). A database intelligence layer for developers.
+**Infra** - Docker, AWS, CI/CD 
